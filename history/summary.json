@@ -19,7 +19,7 @@
   },
   {
     "name": "E.ON SE",
-    "url": "https://api.apps.eon.se/authn/authenticate",
+    "url": "https://eon.se/",
     "icon": "https://nilspace.xyz/content/images/2023/05/power-1.png",
     "slug": "e-on-se",
     "status": "down",
@@ -34,7 +34,7 @@
     "timeMonth": 585,
     "timeYear": 585,
     "dailyMinutesDown": {
-      "2023-05-29": 9
+      "2023-05-29": 48
     }
   },
   {
