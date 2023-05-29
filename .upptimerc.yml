@@ -42,7 +42,7 @@ status-website:
   introMessage: 'check if critical infrastructure may be down, or use [GitHub ↗️](https://github.com/$OWNER/$REPO) to "Watch" and get notified'
   navbar:
     - title: Status
-      href: /
+      href: /stockholm-watchtower
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: Neighbourhoods
