@@ -8,7 +8,7 @@ sites:
     method: GET
     icon: https://nilspace.xyz/content/images/2023/05/water.png
   - name: E.ON SE
-    url: https://api.apps.eon.se/authn/authenticate
+    url: https://eon.se/
     method: GET
     icon: https://nilspace.xyz/content/images/2023/05/power-1.png
   - name: Telia Sverige AB
