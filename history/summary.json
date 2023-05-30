@@ -4,19 +4,19 @@
     "url": "https://www.stockholmvattenochavfall.se/",
     "icon": "https://nilspace.xyz/content/images/2023/05/water.png",
     "slug": "stockholm-vatten-och-avfall",
-    "status": "down",
-    "uptime": "99.93%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.93%",
-    "time": 1947,
-    "timeDay": 1947,
-    "timeWeek": 1947,
-    "timeMonth": 1947,
-    "timeYear": 1947,
+    "status": "up",
+    "uptime": "99.13%",
+    "uptimeDay": "99.13%",
+    "uptimeWeek": "99.13%",
+    "uptimeMonth": "99.13%",
+    "uptimeYear": "99.13%",
+    "time": 1903,
+    "timeDay": 1903,
+    "timeWeek": 1903,
+    "timeMonth": 1903,
+    "timeYear": 1903,
     "dailyMinutesDown": {
-      "2023-05-30": 1
+      "2023-05-30": 12
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 437,
     "timeYear": 437,
     "dailyMinutesDown": {
-      "2023-05-30": 868,
+      "2023-05-30": 880,
       "2023-05-29": 548
     }
   },
@@ -117,19 +117,19 @@
     "url": "https://seb.se/",
     "icon": "https://nilspace.xyz/content/images/2023/05/payment.png",
     "slug": "skandinaviska-enskilda-banken-ab",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 711,
-    "timeDay": 711,
-    "timeWeek": 711,
-    "timeMonth": 711,
-    "timeYear": 711,
+    "status": "up",
+    "uptime": "99.19%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.19%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.19%",
+    "time": 680,
+    "timeDay": 680,
+    "timeWeek": 680,
+    "timeMonth": 680,
+    "timeYear": 680,
     "dailyMinutesDown": {
-      "2023-05-30": 0
+      "2023-05-30": 11
     }
   }
 ]
