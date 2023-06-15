@@ -1,7 +1,7 @@
 url: https://www.telia.se/privat/mitt-telia
-status: down
-code: 503
-responseTime: 9270
-lastUpdated: 2023-06-15T19:13:45.296Z
+status: up
+code: 200
+responseTime: 4586
+lastUpdated: 2023-06-15T19:26:02.789Z
 startTime: Mon May 29 2023 15:00:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
