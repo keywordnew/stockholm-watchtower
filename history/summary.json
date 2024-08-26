@@ -36,7 +36,7 @@
     "timeMonth": 161,
     "timeYear": 144,
     "dailyMinutesDown": {
-      "2024-08-26": 35,
+      "2024-08-26": 39,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
       "2024-08-23": 1440,
@@ -408,9 +408,9 @@
     "url": "https://www.telia.se/privat/mitt-telia",
     "icon": "https://nilspace.xyz/content/images/2023/05/communication.png",
     "slug": "telia-sverige-ab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "99.67%",
@@ -420,6 +420,7 @@
     "timeMonth": 2506,
     "timeYear": 2574,
     "dailyMinutesDown": {
+      "2024-08-26": 0,
       "2024-08-05": 441,
       "2024-08-04": 493,
       "2024-07-28": 30,
