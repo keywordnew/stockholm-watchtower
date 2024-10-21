@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
-    "time": 2242,
-    "timeDay": 1779,
-    "timeWeek": 1948,
-    "timeMonth": 2162,
-    "timeYear": 2212,
+    "time": 2241,
+    "timeDay": 2069,
+    "timeWeek": 1866,
+    "timeMonth": 2182,
+    "timeYear": 2214,
     "dailyMinutesDown": {
       "2024-10-12": 31,
       "2024-04-22": 38
@@ -32,12 +32,13 @@
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 144,
-    "timeDay": 152,
-    "timeWeek": 131,
-    "timeMonth": 132,
+    "timeDay": 75,
+    "timeWeek": 129,
+    "timeMonth": 131,
     "timeYear": 143,
     "dailyMinutesDown": {
-      "2024-10-20": 43,
+      "2024-10-21": 41,
+      "2024-10-20": 1440,
       "2024-10-19": 1440,
       "2024-10-18": 1440,
       "2024-10-17": 1440,
@@ -400,8 +401,7 @@
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
-      "2023-10-23": 1440,
-      "2023-10-22": 1440
+      "2023-10-23": 1440
     }
   },
   {
@@ -416,10 +416,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 2596,
-    "timeDay": 2097,
-    "timeWeek": 2059,
-    "timeMonth": 2305,
-    "timeYear": 2459,
+    "timeDay": 2652,
+    "timeWeek": 2065,
+    "timeMonth": 2329,
+    "timeYear": 2460,
     "dailyMinutesDown": {
       "2024-09-15": 85,
       "2024-08-26": 275,
@@ -439,16 +439,16 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/hospital.png",
     "slug": "karolinska-institutet",
     "status": "up",
-    "uptime": "56.48%",
+    "uptime": "56.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "57.99%",
+    "uptimeYear": "58.26%",
     "time": 515,
-    "timeDay": 432,
+    "timeDay": 545,
     "timeWeek": 649,
-    "timeMonth": 692,
-    "timeYear": 543,
+    "timeMonth": 691,
+    "timeYear": 544,
     "dailyMinutesDown": {
       "2024-03-21": 548,
       "2024-03-20": 1440,
@@ -600,8 +600,7 @@
       "2023-10-26": 1440,
       "2023-10-25": 1440,
       "2023-10-24": 1440,
-      "2023-10-23": 1440,
-      "2023-10-22": 1440
+      "2023-10-23": 1440
     }
   },
   {
@@ -614,12 +613,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.47%",
+    "uptimeYear": "98.74%",
     "time": 927,
-    "timeDay": 687,
-    "timeWeek": 1339,
-    "timeMonth": 1051,
-    "timeYear": 948,
+    "timeDay": 1192,
+    "timeWeek": 1382,
+    "timeMonth": 1068,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2024-06-02": 17,
       "2024-05-31": 63,
@@ -630,8 +629,7 @@
       "2024-01-09": 52,
       "2023-10-25": 469,
       "2023-10-24": 1440,
-      "2023-10-23": 1440,
-      "2023-10-22": 1440
+      "2023-10-23": 1440
     }
   },
   {
@@ -640,15 +638,15 @@
     "icon": "https://nilspace.xyz/content/images/2023/05/transportation-1.png",
     "slug": "storstockholms-lokaltrafik",
     "status": "up",
-    "uptime": "98.29%",
+    "uptime": "98.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.41%",
-    "time": 1127,
-    "timeDay": 762,
-    "timeWeek": 791,
-    "timeMonth": 760,
+    "time": 1125,
+    "timeDay": 669,
+    "timeWeek": 790,
+    "timeMonth": 759,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2024-09-19": 393,
@@ -675,9 +673,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.97%",
     "time": 756,
-    "timeDay": 636,
-    "timeWeek": 563,
-    "timeMonth": 640,
+    "timeDay": 656,
+    "timeWeek": 573,
+    "timeMonth": 643,
     "timeYear": 732,
     "dailyMinutesDown": {
       "2024-09-22": 29,
