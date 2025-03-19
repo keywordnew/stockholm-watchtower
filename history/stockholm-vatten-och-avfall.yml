@@ -1,7 +1,7 @@
 url: https://www.stockholmvattenochavfall.se/
-status: up
-code: 200
-responseTime: 2590
-lastUpdated: 2025-03-18T23:09:30.376Z
+status: down
+code: 500
+responseTime: 1126
+lastUpdated: 2025-03-19T08:51:44.729Z
 startTime: 2023-05-29T15:00:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
